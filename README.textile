@@ -1,0 +1,5 @@
+h1. Common English Error Datasets!
+
+p. JSON datasets for powering 'intelligent' spell and grammar checkers
+
+p. Adapted from the awesome "Common Errors in English Usage":http://www.wsu.edu/~brians/errors/errors.html by Paul Brians (paulbrians@gmail.com)
